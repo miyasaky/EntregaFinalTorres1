@@ -1,0 +1,18 @@
+.nav-link {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    text-decoration: none;
+    color: #111;
+    font-size: 24px;
+    font-weight: bold;
+ }
+ 
+ .nav-link img{
+     width: 30px;
+ }
+
+ .nav-list :hover {
+    color: blue;
+    text-decoration: underline;
+}
